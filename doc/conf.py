@@ -20,14 +20,6 @@ extensions = ["myst_nb"]
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
-# -- Autodoc2 configuration --------------------------------------------------
-# Specify packages to document
-autodoc2_packages = [
-    {
-        "path": "../src/multiply.py",
-        "auto_mode": True,
-    },
-]
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
