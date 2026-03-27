@@ -9,6 +9,5 @@ documentation.
 :caption: Contents:
 doc/some-feature.md
 doc/another-feature.md
-apidocs/index
 docs/flower.md
 ```
